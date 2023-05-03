@@ -1,5 +1,5 @@
 ## Inheritance
-implementasi inheritance pada bahasa java
+
 ### Class Karakter
 ```java
 package inheritance_hero;
